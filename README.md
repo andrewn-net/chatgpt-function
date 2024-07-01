@@ -1,6 +1,8 @@
-## SMS Function
+## ChatGPT Function
 
 This app provides a single function (no workflow) to send a prompt to OpenAI ChatGPT and return a respopnse. The function can be used as a step in Slack's next-generation platform Workflow Builder.
+
+<img width="1136" alt="Screenshot 2024-07-01 at 12 53 42 PM" src="https://github.com/andrewn-net/chatgpt-function/assets/27248499/dd86c643-80ef-4f72-87f0-de2078247cd8">
 
 ## Setup
 
