@@ -6,11 +6,6 @@ This app provides a single function (no workflow) to send a prompt to OpenAI Cha
 
 ## Setup
 
-### Open AI ChatGPT API
-
-Sign up to https://platform.openai.com/ to access the OpenAI ChatGPT API.
-
-
 ### Clone the Template
 
 Start by cloning this repository:
